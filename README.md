@@ -1,2 +1,2 @@
 # react-sass
-Projeto Simples de React com SASS.
+Projeto Simples de React com SASS
